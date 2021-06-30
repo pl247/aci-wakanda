@@ -10,7 +10,7 @@ variable "apic" {
     unverified_ssl = bool
   })
   default = {
-    user           = ""
+    user           = "admin"
     password       = ""
     url            = ""
     unverified_ssl = true
