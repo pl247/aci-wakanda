@@ -13,7 +13,7 @@ apic = {
 #  ACI Demo Configurations               #
 #========================================#
 
-vmm_name = "ACI"
+vmm_name = "Panther"
 
 aci_bds = {
   "v20" = {
